@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Доступ запрещен</title>
+        <style>
+	    body,div,dl,dt,dd,ul,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+		margin:0;
+		padding:0;
+	    }
+
+	    table {
+		border-collapse:collapse;
+		border-spacing:0;
+	    }
+
+	    fieldset,img { 
+		border:0;
+	    }
+
+	    address,caption,cite,code,dfn,em,strong,th,var {
+		font-style:normal;
+		font-weight:normal;
+	    }
+
+	    caption,th {
+		text-align:left;
+	    }
+
+	    h1 {
+		font-size:200%;
+		font-weight:normal;
+		text-align:center;
+	    }
+
+	    h2,h3,h4,h5,h6 {
+		font-size:150%;
+		font-weight:normal;
+		text-align:center;
+	    }
+
+	    q:before,q:after {
+		content:'';
+	    }
+
+	    abbr,acronym {
+		border:0;
+	    }
+
+	a:link {color:#158CD6;}
+	a:visited {color:#158CD6;}
+	a:hover {color:#FF0000;}
+	a:active {color:#FF0000;}
+
+	#center {
+	    top: 50%;
+	    left: 50%;
+	    width: 800px;
+	    height: 450px;
+	    position: absolute;
+	    margin-top: -225px;
+	    margin-left: -400px;
+	}
+	</style>
+    </head>
+    <body>
+	<div id="center">
+	    <h1><b>Доступ запрещен!</b></h1><br />
+	    <h2><b>Обратитесь к администратору.</b></h2>
+	</div>
+  </body>
+</html>
